@@ -1,2 +1,2 @@
-# projet-oumiara
+# projet-web
 projet pour application web 
